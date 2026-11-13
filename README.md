@@ -30,9 +30,9 @@ the podium — the room as its owner sees it.*
 **This page is the showcase — and the sample counter.** The
 free sample of the app is right here in this repo's
 **Releases**: the whole room, free, sealed. The full edition
-will also be sold on the Amazon Appstore (placement pending).
-Read here exactly what the room is, who made its sounds, and
-what it costs, in plain words, before you spend anything.
+is also sold on the Amazon Appstore. Read here exactly what
+the room is, who made its sounds, and what it costs, in plain
+words, before you spend anything.
 
 ## Get it
 
@@ -43,9 +43,8 @@ what it costs, in plain words, before you spend anything.
 rides in **Attach binaries**. Download it, open it on your
 Android phone, and allow the install when your phone asks.
 
-**Music Room on the Amazon Appstore** — placement pending.
-_(The link goes live when the listing does; this line is the
-door it will hang on.)_
+**Music Room on the Amazon Appstore** — live now. Find it in
+the Appstore under Music Room, by Songwright Apps.
 
 The app is **free to download**. The stage then runs on a
 subscription through Amazon:
@@ -146,8 +145,8 @@ Real recordings have makers, and this house credits them.
 
 This repository is a **showcase**: the words and pictures here
 may be read and shared with credit to Songwright. The Music
-Room app itself is a commercial product, bound for the Amazon
-Appstore (placement pending); the free sample in Releases is
+Room app itself is a commercial product, sold on the Amazon
+Appstore; the free sample in Releases is
 the app's free tier, and it is not open source, and nothing in this repo grants
 a license to the app, its recordings, or its code (none of which
 are present here).
